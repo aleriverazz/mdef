@@ -1,5 +1,6 @@
-## Welcome
+## Hello!
 
-![](../images/perezoso.jpg)
+![](../images/HOME_PIC.jpeg)
 
-Welcome to my page!
+hola!
+Welcome to my page!!
