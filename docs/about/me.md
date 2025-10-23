@@ -1,6 +1,6 @@
 # About
 
-![](../images/HOME_PIC.jpeg)
+![](../images/YOOO.jpg)
 
 ale Rivera Zamacona
 
