@@ -1,14 +1,34 @@
 :root>* {
-
+    /* Background colors */
+    --md-default-bg-color: #ffffff;
+    --md-default-bg-color--light: #ffffff;
+    --md-default-bg-color--lighter: #ffffff;
+    --md-default-bg-color--lightest: #ffffff;
+    
+    /* Top bar styling */
+    --md-primary-bg-color: #ffffff;
+    --md-primary-fg-color: #7c3aed; /* Purple color for typography */
+    --md-primary-fg-color--light: #8b5cf6;
+    --md-primary-fg-color--lighter: #a78bfa;
+    --md-primary-fg-color--lighterest: #c4b5fd;
+    
+    /* Footer styling */
     --md-footer-bg-color: white;
     --md-footer-fg-color: rgb(32, 32, 32);
     --md-footer-bg-color--dark: white;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
+    
+    /* Typography */
     --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
-    --md-typeset-a-color: rgb(12, 240, 190);
-
+    --md-typeset-a-color: #7c3aed; /* Purple links */
+    
+    /* Text colors */
+    --md-default-fg-color: #1f2937;
+    --md-default-fg-color--light: #374151;
+    --md-default-fg-color--lighter: #6b7280;
+    --md-default-fg-color--lightest: #9ca3af;
 }
 
 
@@ -39,4 +59,76 @@
 .mdc-typography--body2 {
     font-weight: 300;
     font-size: 14px;
+}
+
+/* Top bar and header styling */
+.md-header {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.md-header__inner {
+    background-color: #ffffff !important;
+}
+
+.md-header__title {
+    color: #7c3aed !important;
+    font-weight: 600;
+}
+
+.md-header__button {
+    color: #7c3aed !important;
+}
+
+.md-header__button:hover {
+    color: #8b5cf6 !important;
+}
+
+/* Navigation tabs styling */
+.md-tabs {
+    background-color: #ffffff !important;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.md-tabs__link {
+    color: #7c3aed !important;
+    font-weight: 500;
+}
+
+.md-tabs__link:hover {
+    color: #8b5cf6 !important;
+    background-color: #f3f4f6;
+}
+
+.md-tabs__link--active {
+    color: #7c3aed !important;
+    border-bottom-color: #7c3aed !important;
+}
+
+/* Sidebar navigation styling */
+.md-nav__title {
+    color: #7c3aed !important;
+    font-weight: 600;
+}
+
+.md-nav__link {
+    color: #374151 !important;
+}
+
+.md-nav__link:hover {
+    color: #7c3aed !important;
+}
+
+.md-nav__link--active {
+    color: #7c3aed !important;
+    font-weight: 500;
+}
+
+/* Main content area */
+.md-main__inner {
+    background-color: #ffffff;
+}
+
+.md-content {
+    background-color: #ffffff;
 }
