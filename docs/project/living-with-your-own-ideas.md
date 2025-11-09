@@ -40,4 +40,11 @@ It is said we share 60% of our DNA with a strawberry. A humbling, if not slightl
 I love strawberries. They are not merely pretty to look at, but I would argue, beautiful in taste. For this exploration of "becoming," I chose to inhabit the essence of something edible, something that grows from the earth, something deceptively simple. I decided to become a strawberry by engaging in the very act of creating one: I began to breed a strawberry plant.
 This process, much like the growth of a berry itself, demanded time, effort, and a particular kind of patience. I began to translate the needs of a plant into my own. A berry requires healthful soil and time; I translated this into a need for a certain quality of companionship—present, but not overwhelming, much like water for a plant that must be just enough, lest it drowns. I needed silence and patience, in equal measure to how my strawberry needed good soil and sunlight.
 What began as an exercise in becoming-other quietly turned into a profound introspection. In striving to nurture something as simple and pretty as a red strawberry, I found myself wanting to embody those very qualities. This exploration became less about transforming into a fruit and more about understanding the conditions for my own growth, aiming for a state of being that is both quietly productive and beautifully uncomplicated.
+</span>
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px;">
+  <img src="assets/gif/1110.gif">
+  <img src="assets/gif/1110.1.gif">
+  <img src="assets/gif/1110.2.gif">
+  <img src="assets/gif/1110.3.gif">
+</div>
