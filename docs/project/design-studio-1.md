@@ -2,7 +2,9 @@
 
 01 - Design Bet poster!
 <br>
-<img src=""C:\Users\aleri\Documents\MDEF\my_website\docs\assets\png\AC_designbet.png" alt="Design Bet poster">
+<img
+(file:///C:/ruta/completa/a/tu/proyecto/assets/png/AC_designbet.PNG)">
+</img>
 <br>
 <br>
 02- Analysis of a Heartbreak: A personnel inquiry
