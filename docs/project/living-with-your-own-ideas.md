@@ -6,7 +6,7 @@
 <i>On Nails, Symbolic Power, and Becoming…<i>
 </span>
 
-<img src="\docs\png\nails.PNG" width="500">
+<img src="../assets/png/nails.png" width="500">
 
 <span style="font-size: 12px;">
 I began by questioning what constitutes the "best version" of oneself. More precisely, I asked when I feel I am embodying that ideal. This inquiry resonates with our lecture's exploration of the natural, femininity, beauty, and functionality.
@@ -17,12 +17,12 @@ In my daily life, I opt for clean, useful nails. I cut them when necessary, as I
 </span>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px;">
-  <img src="assets/gif/1109.0.gif">
-  <img src="assets/gif/1109.1.gif">
-  <img src="assets/gif/1109.2.gif">
-  <img src="assets/gif/c1109.4.gif">
-  <img src="assets/gif/1109.5.gif">
-  <img src="assets/gif/1109.6.gif">
+  <img src="../assets/gif/1109.0.gif">
+  <img src="../assets/gif/1109.1.gif">
+  <img src="../assets/gif/1109.2.gif">
+  <img src="../assets/gif/c1109.4.gif">
+  <img src="../assets/gif/1109.5.gif">
+  <img src="../assets/gif/1109.6.gif">
 </div>
 
 
