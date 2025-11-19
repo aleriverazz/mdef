@@ -117,5 +117,5 @@ extra_css:
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
   - stylesheets/extra.css
   - stylesheets/cargo-style.css 
-  -https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
+  - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
   
