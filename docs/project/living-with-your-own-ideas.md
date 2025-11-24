@@ -20,7 +20,7 @@ In my daily life, I opt for clean, useful nails. I cut them when necessary, as I
   <img src="../assets/gif/1109.0.gif">
   <img src="../assets/gif/1109.1.gif">
   <img src="../assets/gif/1109.2.gif">
-  <img src="../assets/gif/c1109.4.gif">
+  <img src="../assets/gif/1109.4.gif">
   <img src="../assets/gif/1109.5.gif">
   <img src="../assets/gif/1109.6.gif">
 </div>
