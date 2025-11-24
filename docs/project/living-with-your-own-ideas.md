@@ -6,7 +6,7 @@
 <i>On Nails, Symbolic Power, and Becoming…<i>
 </span>
 
-<img src=".../assets/png/nails.PNG" width="500">
+<img src="/assets/png/nails.png" width="500">
 
 <span style="font-size: 12px;">
 I began by questioning what constitutes the "best version" of oneself. More precisely, I asked when I feel I am embodying that ideal. This inquiry resonates with our lecture's exploration of the natural, femininity, beauty, and functionality.
