@@ -14,6 +14,7 @@ nav:
       - Design Studio I: project/design-studio-1.md
       - Living with your own Ideas: project/living-with-your-own-ideas.md
       - (FUN)damentals: project/fundamentals.md
+      - Unpacking Tech Systems: unpacking-tech-systems.md
   - Reflextions:
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
@@ -33,7 +34,9 @@ extra:
     - icon: fontawesome/brands/medium
       link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: https://instagram.com/
+      link: https://instagram.com/aleriverazz
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/riveraazz
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/
     - icon: fontawesome/brands/linkedin
