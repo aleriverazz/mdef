@@ -1,6 +1,6 @@
 # About
 
-<img src="../assets/images/HOME_PIC.jpg"
+<img src="![Image](https://github.com/user-attachments/assets/20c671ac-2274-4740-b56b-98dd5caf3473)"
 
 
 ale Rivera Zamacona
