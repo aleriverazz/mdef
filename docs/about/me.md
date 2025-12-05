@@ -1,6 +1,7 @@
 # About
 
-![alt text](HOME_PIC.jpg)
+<img src="../assets/images/HOME_PIC.jpg"
+
 
 ale Rivera Zamacona
 
