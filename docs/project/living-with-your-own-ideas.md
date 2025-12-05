@@ -16,6 +16,7 @@ This led me to an imaginative, speculative extreme: a concept of neobuchona, pro
 In my daily life, I opt for clean, useful nails. I cut them when necessary, as I must work with my hands, on computers, and with machinery. I cannot afford that monthly financial or functional sacrifice. Yet, I still experience that potent feeling of being my best self with my own, more subdued taste of symbolic cleanliness and power—a subtle assertion of identity and control right at my fingertips.
 </span>
 
+  <img src="../../">
   <img src="../assets/images/1109.0.gif">
   <img src="../assets/images/1109.1.gif">
   <img src="../assets/images/1109.2.gif">
