@@ -6,7 +6,7 @@
 <i>On Nails, Symbolic Power, and Becoming…<i>
 </span>
 
-<img src="../assets/png/nails.png>
+<img src="../assets/png/nails.png">
 <br>
 <span style="font-size: 12px;">
 I began by questioning what constitutes the "best version" of oneself. More precisely, I asked when I feel I am embodying that ideal. This inquiry resonates with our lecture's exploration of the natural, femininity, beauty, and functionality.
@@ -18,11 +18,11 @@ In my daily life, I opt for clean, useful nails. I cut them when necessary, as I
 
   <img src="../assets/images/1109.0.gif">
   <img src="../assets/images/1109.1.gif">
-  <img src="../assets/images/1109.2.gif>
-  <img src="../assets/images/1109.3.gif?
-  <img src="../assets/images/1109.4.gif>
-  <img src="../assets/images/1109.5.gif>
-  <img src="../assets/images/1109.6.gif>
+  <img src="../assets/images/1109.2.gif">
+  <img src="../assets/images/1109.3.gif">
+  <img src="../assets/images/1109.4.gif">
+  <img src="../assets/images/1109.5.gif">
+  <img src="../assets/images/1109.6.gif">
 
 
 <br>
@@ -33,7 +33,7 @@ In my daily life, I opt for clean, useful nails. I cut them when necessary, as I
 <i>On Strawberries and Self<i>
 </span>
 
-<img src="\docs\assets\images\strawberry.jpg" width="500">
+<img src="../assets/images/strawberry.jpg" width="500">
 
 <span style="font-size: 12px;">
 It is said we share 60% of our DNA with a strawberry. A humbling, if not slightly absurd, thought. But what would it truly take to transform myself into one?
