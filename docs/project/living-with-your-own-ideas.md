@@ -6,8 +6,8 @@
 <i>On Nails, Symbolic Power, and Becoming…<i>
 </span>
 
-![alt text](nails.png)
-
+<img src="../assets/png/nails.png>
+<br>
 <span style="font-size: 12px;">
 I began by questioning what constitutes the "best version" of oneself. More precisely, I asked when I feel I am embodying that ideal. This inquiry resonates with our lecture's exploration of the natural, femininity, beauty, and functionality.
 My personal investigation started with beauty: when do I feel like the best version of myself? The answer, perhaps oddly, is found in the process of getting my nails done. This feeling transcends mere aesthetics; it is an embodied experience. I started to research this sensation, focusing on my hands—the primary extensions of my body that interact with the world. When they are adorned, I feel pretty, beautiful, and most authentically myself.
@@ -16,7 +16,6 @@ This led me to an imaginative, speculative extreme: a concept of neobuchona, pro
 In my daily life, I opt for clean, useful nails. I cut them when necessary, as I must work with my hands, on computers, and with machinery. I cannot afford that monthly financial or functional sacrifice. Yet, I still experience that potent feeling of being my best self with my own, more subdued taste of symbolic cleanliness and power—a subtle assertion of identity and control right at my fingertips.
 </span>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px;">
   <img src="../assets/images/1109.0.gif">
   <img src="../assets/images/1109.1.gif">
   <img src="../assets/images/1109.2.gif>
@@ -24,10 +23,10 @@ In my daily life, I opt for clean, useful nails. I cut them when necessary, as I
   <img src="../assets/images/1109.4.gif>
   <img src="../assets/images/1109.5.gif>
   <img src="../assets/images/1109.6.gif>
-</div>
 
 
-
+<br>
+<br>
 <span style="font-size: 18px;"><b><i>To become something else<i></b></span>
 
 <span style="font-size: 12px;">
