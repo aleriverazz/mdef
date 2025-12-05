@@ -17,12 +17,13 @@ In my daily life, I opt for clean, useful nails. I cut them when necessary, as I
 </span>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 12px;">
-  <img src="../assets/gif/1109.0.gif">
-  <img src="../assets/gif/1109.1.gif">
-  <img src="../assets/gif/1109.2.gif">
-  <img src="../assets/gif/1109.4.gif">
-  <img src="../assets/gif/1109.5.gif">
-  <img src="../assets/gif/1109.6.gif">
+  <img src="../assets/images/1109.0.gif">
+  <img src="../assets/images/1109.1.gif">
+  <img src="../assets/images/1109.2.gif>
+  <img src="../assets/images/1109.3.gif?
+  <img src="../assets/images/1109.4.gif>
+  <img src="../assets/images/1109.5.gif>
+  <img src="../assets/images/1109.6.gif>
 </div>
 
 
