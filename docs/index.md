@@ -5,7 +5,7 @@ Hello and thanks for stopping by! I'm Ale, an architect from Tijuana, Mexico, no
 
 Now, I'm excited to explore how design can help shape more resilient, collective, and symbiotic futures. This site is where I'll document my journey, my projects, and my evolution throughout this master's.
 
-Feel free to look around and see what emerges!
+Feel free to scroll down to see!
 
 
 <span style="font-size: 18px;"><b><i>UNPACKING TECH SYSTEM!<i></b></span>
