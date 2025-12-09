@@ -17,4 +17,4 @@ Link to team project!
 
 [FINAL PRESENTATION](https://docs.google.com/presentation/d/1vVtBWui1rpwGVOtKBBoiuBuee07NomTRBM0mNPsSbbA/edit?usp=sharing ("FINAL PRESENTATION") 
 
-[ZINE LINK](https://drive.google.com/file/d/1kJESbHlvjNqzlwNdP_kxvWasPsYXUfI6/view?usp=sharing) ("ZINE LINK") 
+[ZINE LINK](https://drive.google.com/file/d/1kJESbHlvjNqzlwNdP_kxvWasPsYXUfI6/view?usp=sharing) 
