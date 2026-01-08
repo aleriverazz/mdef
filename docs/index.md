@@ -15,6 +15,8 @@ ___________________________________________________
 ___________________________________________________
 
 <span style="font-size: 18px;"><b><i>LIVING WITH YOUR OWN IDEAS<i></b></span>
+<br>
+
 ★[LINK](https://docs.google.com/document/d/1zpMZ8Pv6IqC9VuPAdWoCe6v5ZujwMA2IUZA8jqe8kRE/edit?usp=sharing)
 
 ___________________________________________________
@@ -33,8 +35,12 @@ Link to team project!
 ___________________________________________________
 
 <span style="font-size: 18px;"><b><i>(FUN)DAMENTALS FOR FUTURE MAKERS<i></b></span>
+<br>
+
 Link to team project! 
-★[LINK](https://docs.google.com/document/d/1Ekf4YDOEidUIlHvt0ZlgP-VfHxmpWO2GsIJS5tF95CY/edit?usp=sharing
+<br>
+
+★[LINK](https://docs.google.com/document/d/1Ekf4YDOEidUIlHvt0ZlgP-VfHxmpWO2GsIJS5tF95CY/edit?usp=sharing)
 
 
 ___________________________________________________
