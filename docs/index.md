@@ -15,7 +15,7 @@ ___________________________________________________
 ___________________________________________________
 
 <span style="font-size: 18px;"><b><i>LIVING WITH YOUR OWN IDEAS<i></b></span>
-
+★[LINK](https://docs.google.com/document/d/1zpMZ8Pv6IqC9VuPAdWoCe6v5ZujwMA2IUZA8jqe8kRE/edit?usp=sharing)
 
 ___________________________________________________
 
@@ -23,17 +23,19 @@ ___________________________________________________
 Link to team project! 
 <br>
 
-[FORENSIC REPORT](https://hackmd.io/6bpTeFL1R0aKpRyyVLhDWw "FORENSIC REPORT")
+★[FORENSIC REPORT](https://hackmd.io/6bpTeFL1R0aKpRyyVLhDWw "FORENSIC REPORT")
 <br>
 
-[FINAL PRESENTATION](https://docs.google.com/presentation/d/1vVtBWui1rpwGVOtKBBoiuBuee07NomTRBM0mNPsSbbA/edit?usp=sharing ("FINAL PRESENTATION") 
+★[FINAL PRESENTATION](https://docs.google.com/presentation/d/1vVtBWui1rpwGVOtKBBoiuBuee07NomTRBM0mNPsSbbA/edit?usp=sharing ("FINAL PRESENTATION") 
 
-[ZINE LINK](https://drive.google.com/file/d/1kJESbHlvjNqzlwNdP_kxvWasPsYXUfI6/view?usp=sharing)
+★[ZINE LINK](https://drive.google.com/file/d/1kJESbHlvjNqzlwNdP_kxvWasPsYXUfI6/view?usp=sharing)
 
 ___________________________________________________
 
 <span style="font-size: 18px;"><b><i>(FUN)DAMENTALS FOR FUTURE MAKERS<i></b></span>
 Link to team project! 
+★[LINK](https://docs.google.com/document/d/1Ekf4YDOEidUIlHvt0ZlgP-VfHxmpWO2GsIJS5tF95CY/edit?usp=sharing
+
 
 ___________________________________________________
 
