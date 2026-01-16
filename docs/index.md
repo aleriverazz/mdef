@@ -51,3 +51,9 @@ ___________________________________________________
 
 
 ___________________________________________________
+
+
+<span style="font-size: 18px;"><b><i>Narrative I: PICTORAL<i></b></span>
+<br>
+
+★[LINK](https://docs.google.com/document/d/1guIB1FW6vgCn70Vxlp75OHKYS8fbl1t9qE2gXjVZZ0k/edit?usp=sharing)
